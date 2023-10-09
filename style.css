@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-image: url(https://media.giphy.com/media/OkVVUlG40FnuE/giphy.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input,
+.output {
+  margin: 10px;
+  font: white;
+}
+input {
+  width: 100px;
+}
